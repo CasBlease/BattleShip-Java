@@ -1,4 +1,7 @@
 Ship.class
 ShipSquare.class
+ClientGUI.class
+Client.class
 gameBoard.class
+ClientGUI$1.class
 Game.class
